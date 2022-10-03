@@ -3,7 +3,7 @@
 import java.io.*;
 import java.util.Scanner;
 
-class GFG {
+class reversing {
 	public static void main (String[] args) {
 		
 		String str= "Geeks", nstr="";
