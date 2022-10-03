@@ -1,8 +1,8 @@
 #include <bits/stdc++.h>
 #include <iostream>
 #include <conio.h>
-using namespace std;
 
+using namespace std;
 class Node
 {
 public:
